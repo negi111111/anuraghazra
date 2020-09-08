@@ -18,12 +18,7 @@
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`
 --->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=negi111111&show_icons=true&count_private=true&include_all_commits=true" alt="negi111111's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=negi111111&hide=html,css" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=negi111111&hide=html,css" />
 </a>
 
 **Development and Application:**
