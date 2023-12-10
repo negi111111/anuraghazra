@@ -24,19 +24,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=negi111111&theme=dracula&rank=-C,-B,-?)](https://github.com/ryo-ma/github-profile-trophy)
 
+**Development and Application:**
+
 <p align="left">
-  <img width="59%" src="https://github-readme-stats-negi111111s-projects.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula&count_private=true" />
-  <img width="40%" src="https://github-readme-stats-negi111111s-projects.vercel.app/api/top-langs/?username=negi111111&layout=donut&theme=dracula&hide=css,html&count_private=true" />
-</p>
-
-<!-- **Development and Application:**
 <a href="https://negi111111.github.io/DeepFoodCamHP/">
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=negi111111&repo=DeepFoodCamHP" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=negi111111&repo=DeepFoodCamHP&theme=dracula" width="46%"/>
 </a>
-
 <a href="https://negi111111.github.io/FoodChangeLensProjectHP/">
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=negi111111&repo=FoodChangeLensProjectHP" />
-</a> -->
-  
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=negi111111&repo=FoodChangeLensProjectHP&theme=dracula" width="40%" />
+</a>
+</p>
