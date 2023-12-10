@@ -1,27 +1,31 @@
-<!--
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
---->
+### Hi there I'm negi111111 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> :robot: :coffee: :computer: :tada:
 
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> -->
+<p align="left">
+  <a href="https://bcert.me/bc/html/show-badge.html?b=iqcjkpsv">
+    <img src="./assets/seal-advcsd.png" width="10%">
+  </a>
+  <a href="https://bcert.me/bc/html/show-badge.html?b=ierxsnxt">
+    <img src="./assets/seal-csd.png" width="10%">
+  </a>
+  <a href="https://bcert.me/bc/html/show-badge.html?b=grsytzds">
+    <img src="./assets/seal-csm.png" width="10%">
+  </a>
+  <a href="https://s3.amazonaws.com/scruminc-certs/RPO-4379492">
+    <img src="./assets/BadgeRPO1633363070177.png" width="10%">
+  </a>
+  <a href="https://negi111111.github.io/pub/scrum/CLB.pdf">
+    <img src="./assets/certified-less-basics.png" width="10%">
+  </a>  
+</p>
 
-<!---
-  if you have forked this to use on your profile,
-  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`
---->
+[![trophy](https://github-profile-trophy.vercel.app/?username=negi111111&theme=dracula&rank=-C,-B,-?)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=negi111111&hide=html,css" />
-</a>
+<p align="left">
+  <img width="59%" src="https://github-readme-stats-negi111111s-projects.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula&count_private=true" />
+  <img width="40%" src="https://github-readme-stats-negi111111s-projects.vercel.app/api/top-langs/?username=negi111111&layout=donut&theme=dracula&hide=css,html&count_private=true" />
+</p>
 
-**Development and Application:**
+<!-- **Development and Application:**
 <a href="https://negi111111.github.io/DeepFoodCamHP/">
 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=negi111111&repo=DeepFoodCamHP" />
@@ -30,9 +34,5 @@
 <a href="https://negi111111.github.io/FoodChangeLensProjectHP/">
 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=negi111111&repo=FoodChangeLensProjectHP" />
-</a>
-  
-<!-- <a href="https://negi111111.github.io/FoodTransferProjectHP/">
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=negi111111&repo=FoodTransferProjectHP" />
 </a> -->
+  
