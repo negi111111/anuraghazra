@@ -16,6 +16,10 @@
   <a href="https://negi111111.github.io/pub/scrum/CLB.pdf">
     <img src="./assets/certified-less-basics.png" width="10%">
   </a>  
+  <a href="https://www.kaggle.com/kerukun">
+    <img src="./assets/expert@192.png" width="7%">
+  </a>
+
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=negi111111&theme=dracula&rank=-C,-B,-?)](https://github.com/ryo-ma/github-profile-trophy)
