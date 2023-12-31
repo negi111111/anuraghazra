@@ -1,5 +1,3 @@
-### Hi there I'm negi111111 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> :robot: :coffee: :computer: :tada:
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=negi111111&theme=dracula&rank=-C,-B,-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 **Development and Application:**
